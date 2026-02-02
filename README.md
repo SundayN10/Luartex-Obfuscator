@@ -1,7 +1,6 @@
 # 🔐 Luartex Obfuscator
 
-> The most powerful Lua obfuscator. Uncrackable. Undumpable. Unstoppable.
-
+> The most powerful Lua obfuscator. 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289da?style=for-the-badge&logo=discord)](https://discord.gg/GpucUKeCtF)
 
 ## ⚡ Features
